@@ -1,0 +1,10 @@
+ERROR: Cannot load vehicle belonging to owner 45505 - no more large vehicle spaces!
+ERROR: Cannot load vehicle belonging to owner 90060 - no more normal vehicle spaces!
+ERROR: Cannot load vehicle belonging to owner 90233 - no more normal vehicle spaces!
+ERROR: Cannot load vehicle belonging to owner 91945 - no more normal vehicle spaces!
+ERROR: Cannot load vehicle belonging to owner 95222 - no more passenger spaces!
+ERROR: Cannot load vehicle belonging to owner 95385 - no more passenger spaces!
+ERROR: Cannot load passenger 96496 - no more passenger spaces!
+ERROR: Cannot load vehicle belonging to owner 96943 - no more passenger spaces!
+ERROR: Cannot load passenger 97497 - no more passenger spaces!
+ERROR: Cannot load passenger 99315 - no more passenger spaces!
